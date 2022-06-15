@@ -1,0 +1,14 @@
+import React from "react";
+import ReactDom from "react-dom";
+import "./index.css";
+import App from "./App";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import { BrowserRouter as Router } from "react-router-dom";
+
+ReactDom.render(
+  <Router>
+    <App />
+  </Router>,
+  document.getElementById("root")
+);
