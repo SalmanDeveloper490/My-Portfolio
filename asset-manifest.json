@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.b0279de2.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.ba419233.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.ba419233.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.d7877374.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.d7877374.js.map",
+    "static/css/2.2ec79b7a.chunk.css": "/My-Portfolio/static/css/2.2ec79b7a.chunk.css",
+    "static/js/2.d4f1a714.chunk.js": "/My-Portfolio/static/js/2.d4f1a714.chunk.js",
+    "static/js/2.d4f1a714.chunk.js.map": "/My-Portfolio/static/js/2.d4f1a714.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "static/css/2.2ec79b7a.chunk.css.map": "/My-Portfolio/static/css/2.2ec79b7a.chunk.css.map",
+    "static/css/main.b0279de2.chunk.css.map": "/My-Portfolio/static/css/main.b0279de2.chunk.css.map",
+    "static/js/2.d4f1a714.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.d4f1a714.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/My-Portfolio/static/media/avatar.696643fe.jpg",
+    "static/media/night-svgrepo-com.svg": "/My-Portfolio/static/media/night-svgrepo-com.a1e16216.svg",
+    "static/media/slick-theme.css": "/My-Portfolio/static/media/slick.c94f7671.ttf",
+    "static/media/sun-svgrepo-com.svg": "/My-Portfolio/static/media/sun-svgrepo-com.6807a057.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7877374.js",
+    "static/css/2.2ec79b7a.chunk.css",
+    "static/js/2.d4f1a714.chunk.js",
+    "static/css/main.b0279de2.chunk.css",
+    "static/js/main.ba419233.chunk.js"
+  ]
+}
